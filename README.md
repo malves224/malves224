@@ -27,6 +27,7 @@ Principal habilidade que eu busco aperfeiçoar é a capacidade de consumir docum
  </h3>
 
 <img src="https://github-readme-stats.vercel.app/api?username=malves224&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40">
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=malves224&layout=compact&langs_count=7&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40"/>
 
 <h2> Contato </h2>
   <a href="https://www.linkedin.com/in/mthsalves//">
