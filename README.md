@@ -16,9 +16,10 @@ Busco lugar agradável para se trabalhar e que me proporcione desafios.
 <h3> Habilidades | Stacks </h3>
 <p>
 Minha principal linguagem de programação é JavaScript e como bliblioteca de construção de interfaces React, Prefiro trabalhar com componentes funcionais por causa da facilidade de utilizar os Hooks do React, Mas entendo como funciona componentes de clases.
+Tenho experiencia em utilizar alguns Framework CSS como material UI e bootstrap.
 Em gerenciamento de estados mais complexos costumo usar Context API ou Redux.
 E para testes automizados, Jest e reacting testing library (RTL).
-Em meus projetos individuais utilizo CSS puro para estilizar, ou bootstrap depedendo dos prazos.
+Em meus projetos individuais utilizo CSS puro para estilizar.
 </p>
 <p>
 Principal habilidade que eu busco aperfeiçoar é a capacidade de consumir documentação e entender o seu conteudo para aplicar nas soluções que eu desenvolvo.
