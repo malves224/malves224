@@ -2,7 +2,7 @@
 
 <h3> Sobre mim </h3>
 <p>
-Sou Desenvolvedor da web, apaixonado por tecnologia e investimentos, Adoro estar sempre estudando e aprendendo cada vez mais, e tambem gosto muito de compartilhar meus conhecimentos ensinando, Acredito que isso potencializa meu aprendizado.
+Sou Desenvolvedor fullstack, apaixonado por tecnologia e investimentos, Adoro estar sempre estudando e aprendendo cada vez mais, e tambem gosto muito de compartilhar meus conhecimentos ensinando, Acredito que isso potencializa o aprendizado.
 </p>
 <p>
 Nas horas vagas gosto de ler livros de diversos assuntos desde Arquitetura Limpa de Robert C. Marti até os romances clasicos de Agatha Christie,
