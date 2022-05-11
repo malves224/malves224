@@ -1,17 +1,15 @@
-<h1>Oi, Meu nome é Matheus Alves.</h1>
+<h1>  
+Hi, my name is Matheus Alves</h1>
 
-<h3> Sobre mim </h3>
+<h3> About me </h3>
 <p>
-Sou Desenvolvedor fullstack, apaixonado por tecnologia e investimentos, Adoro estar sempre estudando e aprendendo cada vez mais, e tambem gosto muito de compartilhar meus conhecimentos ensinando, Acredito que isso potencializa o aprendizado.
+I am a fullstack developer, passionate about technology and investments, I love to be always studying and learning more and more, and I also really like to share my knowledge teaching, I believe that this enhances learning.
+</p>
+
 </p>
 <p>
-Nas horas vagas gosto de ler livros de diversos assuntos desde Arquitetura Limpa de Robert C. Marti até os romances clasicos de Agatha Christie,
-Essa diversidade de assuntos me ajuda a manter minha criatividade, Adoro criar! &#128513
-<br>
-Adoro conversar sobre tecnologia, Negócios e empreendimento.
-</p>
-<p>
-Busco lugar agradável para se trabalhar e que me proporcione desafios.
+  
+I am looking for a pleasant place to work and one that provides me with challenges.
 </p>
 <h3> Habilidades | Stacks </h3>
 
@@ -25,18 +23,16 @@ Busco lugar agradável para se trabalhar e que me proporcione desafios.
 #### Testes 
 ![enter image description here](https://camo.githubusercontent.com/8123b8b08e52c2f4c1226c9c876199a2a39ca86e30a1820c96d4cf29ad306e7c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6573742d3065376230633f7374796c653d666f722d7468652d6261646765266c6f676f3d6a657374266c6f676f436f6c6f723d7768697465) ![enter image description here](https://camo.githubusercontent.com/6fe498dfa70e4536cc46563b07b45425937dffc1cd5433771cdd0a4770928cac/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d6f6368612d3844363734383f7374796c653d666f722d7468652d6261646765266c6f676f3d4d6f636861266c6f676f436f6c6f723d7768697465) ![enter image description here](https://camo.githubusercontent.com/3c6e596d244ccb5b491bad3c050bb238eace57fc78243db4e48a3b7e21dc7aa7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f636861692d4133303730313f7374796c653d666f722d7468652d6261646765266c6f676f3d63686169266c6f676f436f6c6f723d7768697465) ![enter image description here](https://camo.githubusercontent.com/ff64759081e183bbd02c6f361d804594860d8d7e469bc51d3502ba5883fa0a5c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f73696e6f6e2e6a732d3930454539303f7374796c653d666f722d7468652d6261646765) 
 <p>
-Minha principal linguagem de programação é JavaScript e estou utilizando Typescript cada vez mais.
+  
+My main programming language is JavaScript and I'm using Typescript more and more.
 </p>
-<p>
-Principal habilidade que eu busco aperfeiçoar é a capacidade de consumir documentação e entender o seu conteudo para aplicar nas soluções que eu desenvolvo.
-</p>
-<h3> Minhas contribuições &#127922;
+<h3> contributions &#127922;
  </h3>
 
 <img src="https://github-readme-stats.vercel.app/api?username=malves224&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40">
 <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=malves224&layout=compact&langs_count=7&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40"/>
 
-<h2> Contato </h2>
+<h2> Contact </h2>
   <a href="https://www.linkedin.com/in/mthsalves//">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white">
   </a>
