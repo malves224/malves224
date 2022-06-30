@@ -8,9 +8,7 @@ I am a fullstack developer, passionate about technology and investments, I love 
 
 </p>
 <p>
-  
-I am looking for a pleasant place to work and one that provides me with challenges.
-</p>
+  </p>
 <h3> Skills | Stacks </h3>
 
 #### Front end:
